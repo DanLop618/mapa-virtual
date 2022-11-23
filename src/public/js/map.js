@@ -1,4 +1,4 @@
-const socket = new WebSocketInterface( "wss://geolocalizacion.onrender.com" );
+const socket = new WebSocketInterface( "wss://geolocalizacion.danlop618.repl.co" );
 // const socket = new WebSocketInterface( "ws://localhost:8000" );
 const mapa   = L.map( "map-container" );
 
