@@ -1,8 +1,9 @@
 # Módulos de Node
 node_modules
 
-# Archivos de Heroku
+# Archivos de Servicios de 3ros
 Procfile
+.replit
 
 # Información sensible
 .env
