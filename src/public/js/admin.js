@@ -1,5 +1,4 @@
-const socket = new WebSocketInterface( "wss://geolocalizacion.danlop618.repl.co" );
-// const socket = new WebSocketInterface( "ws://localhost:8000" );
+const socket = new WebSocketInterface( "ws://localhost:8000" );
 
 // Ubicaciones y coordenadas.
 const Ubicaciones = [];
